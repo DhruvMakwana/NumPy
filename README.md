@@ -29,3 +29,4 @@ Reference for more tutorials:
 
 <a href="https://numpy.org/devdocs/user/quickstart.html#further-reading">Numpy Quickstart</a><br>
 <a href="https://numpy.org/devdocs/user/absolute_beginners.html">NumPy: the absolute basics for beginners</a><br>
+<a href="https://numpy.org/devdocs/user/basics.html">https://numpy.org/devdocs/user/basics.html</a><br>
