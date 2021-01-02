@@ -24,3 +24,7 @@ NumPy is often used along with packages like SciPy (Scientific Python) and Matâˆ
 
 For Visual representation of NumPy visit here
 (https://jalammar.github.io/visual-numpy/)
+
+Reference for more tutorials:
+
+<a href="https://numpy.org/devdocs/user/quickstart.html#further-reading">Numpy Quickstart</a><br>
