@@ -31,3 +31,4 @@ Reference for more tutorials:
 <a href="https://numpy.org/devdocs/user/absolute_beginners.html">NumPy: the absolute basics for beginners</a><br>
 <a href="https://numpy.org/devdocs/user/basics.html">https://numpy.org/devdocs/user/basics.html</a><br>
 <a href="https://numpy.org/devdocs/user/tutorials_index.html">NumPy Tutorials</a><br>
+<a href="https://cs231n.github.io/python-numpy-tutorial/">Python Numpy Tutorial (with Jupyter and Colab)</a>
